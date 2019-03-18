@@ -1,1 +1,2 @@
-this is the lab 6 work.
+This is lab 06...
+It's about JavaScript conditionals.
